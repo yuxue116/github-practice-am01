@@ -95,3 +95,4 @@ Learning to use Github for your Portfolio Website Assignment
 |63|Lujia Huang  | 10     | LuciaLujia | <https://github.com/LuciaLujia/my_website> | <https://lujia.netlify.app/>  |2020-09-13
 |64|Joseph Perrin  | 9    | jperrinmam2021 | <https://github.com/jperrinmam2021/jperrinwebsite> | <https://jperrinmam2021.netlify.app> |2020-09-14
 |65|Zichen Wang   | 13     | zichen-wang-ac |<https://github.com/zichen-wang-ac/R_portfolio>   |<https://zw-r-portfolio-2020.netlify.app/>  |2020-09-14
+|66|Jun Xing  | 8     | Jun-Xing |<https://github.com/Jun-Xing/my_website>   |<https://junxing-portfolio-site.netlify.app/>  |2020-09-14

@@ -98,3 +98,4 @@ Learning to use Github for your Portfolio Website Assignment
 |66|Jun Xing  | 8     | Jun-Xing |<https://github.com/Jun-Xing/my_website>   |<https://junxing-portfolio-site.netlify.app/>  |2020-09-14
 |67|Yi Yan Ng  | 5     | Hectopascal |<https://github.com/Hectopascal/my_website>   |<https://https://yiyan-portfolio.netlify.app//>  |2020-09-15
 |68|Shuhan Li  | 12     | Shuhan-Li-LBS |<https://github.com/Shuhan-Li-LBS/my_website>   |<https://shuhan-my-website.netlify.app/>  |2020-09-15
+|69|Advait Jayant  | 9     | advaitjk |<https://github.com/advaitjk/my_website>   |<https://advait-jayant.netlify.app/>  |2020-09-15

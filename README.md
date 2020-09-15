@@ -57,7 +57,7 @@ Learning to use Github for your Portfolio Website Assignment
 |25|Agnieszka Prawda   | 6     | agnieszkaprawda|<https://github.com/agnieszkaprawda/my_website2>   |<https://agnieszkaprawda-mywebsite.netlify.app/>        |2020-09-07
 |26|Ishita Gupta | 15 | ishita149 | <https://github.com/ishita149/my_website> | <https://ishita-gupta.netlify.app/> | 2020-09-06
 |27|Samy Mohamad   | 6     | interfdsa|<https://github.com/Interfdsa/my_website>   | https://samymo.netlify.app/ |2020-09-07
-|28|Carlota Castro Perez  | 2     | carlota-castro |<https://github.com/carlota-castro/my_website1>   | <https://carlota-portfolio1.netlify.app/> |2020-09-06
+|28|Carlota Castro Perez  | 2     | carlota-castro |<https://github.com/carlota-castro/my_website2>   | <https://carlota-portfolio2.netlify.app/> |2020-09-06
 |29|Julia Tulloh |1     |jtulloh | <https://github.com/jtulloh/jtulloh_portfolio>  | <https://jtullohportfolio.netlify.app/> | 2020-09-06
 |30|David Nazareth   |12    |david-nazareth|<https://github.com/david-nazareth/my_website> | <https://david-nazareth-portfolio.netlify.app/>|2020-09-06
 |31|Fabian Sinn | 2     | fabian-sinn | <https://github.com/fabian-sinn/my_website.git> | <https://fabiansinn.netlify.app/> |2020-09-06

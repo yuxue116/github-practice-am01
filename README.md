@@ -64,7 +64,7 @@ Learning to use Github for your Portfolio Website Assignment
 |32 | Vasu Dev Puri| 5| Vasudevpuri|<https://github.com/Vasudevpuri/my_website.git|https://vasudevpuri.netlify.app/>|2020-09-06     |
 |33 |Neel Kamal Puri| 3   | NeelKamalPuri | <https://github.com/NeelKamalPuri/NeelKamalPuri.git> |<https://neelkamalpuri.netlify.app/> |2020-09-06  
 |34|Oliver Ayton   |12    |oayton|<https://github.com/oayton/my_website> | <https://oliver-ayton.netlify.app/>|2020-09-06
-|35|Melonica Mohapatra | 8  |mmohap7|<https://github.com/mmohap7/my_website2> | <https://melonica-mohapatra-portfolio.netlify.app/>|2020-09-06
+|35|Melonica Mohapatra | 8  |mmohap7|<https://github.com/mmohap7/test_repo> | <https://melonicam07.netlify.app/>|2020-09-15
 |36|Tianchi Wu   | 7   |tianchi-wu|<https://github.com/tianchi-wu/my_website> | <https://tianchi-portfolio.netlify.app/>|2020-09-06
 |37|Kushal Kundanmal   |3    |kkundanmal|<https://github.com/kkundanmal/personal-portfolio> | <https://kushal-portfolio.netlify.app/> |2020-09-06
 |38|Yichun Hou   |6    |Yichun-Hou|<https://github.com/Yichun-Hou/my_website> | <https://yichunhou.netlify.app/> |2020-09-07

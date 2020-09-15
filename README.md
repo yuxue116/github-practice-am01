@@ -97,3 +97,5 @@ Learning to use Github for your Portfolio Website Assignment
 |65|Zichen Wang   | 13     | zichen-wang-ac |<https://github.com/zichen-wang-ac/R_portfolio>   |<https://zw-r-portfolio-2020.netlify.app/>  |2020-09-14
 |66|Jun Xing  | 8     | Jun-Xing |<https://github.com/Jun-Xing/my_website>   |<https://junxing-portfolio-site.netlify.app/>  |2020-09-14
 |67|Yi Yan Ng  | 5     | Hectopascal |<https://github.com/Hectopascal/my_website>   |<https://https://yiyan-portfolio.netlify.app//>  |2020-09-15
+|68|Advait Jayant  | 9     | advaitjk |<https://github.com/advaitjk/my_websitee>   |<https://advait-jayant.netlify.app/>  |2020-09-15
+

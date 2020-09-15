@@ -81,7 +81,7 @@ Learning to use Github for your Portfolio Website Assignment
 |49| Selin Beijersbergen | 3 | selinbeijersbergen | <https://github.com/selinbeijersbergen/my_website> | <https://selinbeijersbergen.netlify.app> | 2020-09-08 |
 |50| Ishitaa Jindal | 4 | ishitaa-jindal | <https://github.com/ishitaa-jindal/my_website> | https://ishitaa-portfolio.netlify.app/ | 2020-09-08 |
 |51| Brendan Kermorvan | 12 | brendk | <https://github.com/brendk/my_wb> | <https://brendk.netlify.app/> | 2020-09-08 |
-|52| Josephine Haag | 8 | josephineaudrey | <https://github.com/josephineaudrey/my_website.git> | https://josephine-portfolio.netlify.app/ | 2020-09-08 |
+|52| Josephine Haag | 8 | josephineaudrey | <https://github.com/josephineaudrey/my_website> | https://josephine-portfolio.netlify.app/ | 2020-09-08 |
 |53| Ziyi Yang | 1 | Ziyi-Yang-LBS | <https://github.com/Ziyi-Yang-LBS/my_website> | <https://ziyi-yang.netlify.app/> | 2020-09-08 |
 |54| Martino Armaninni | 10 | MartinoArmanini2021 | <https://github.com/MartinoArmanini2021/my_website> | <https://portfolio-martinoarmanini.netlify.app/> | 2020-09-08 |
 |55| Michael Gritzbach | 4 | michaelgritzbach | <https://github.com/Gritzbach/web> | <https://gritzbach.netlify.app/> | 2020-09-15 |
